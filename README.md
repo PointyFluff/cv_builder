@@ -1,7 +1,7 @@
 # cv_builder
 # WIP
 
-cv_builder is a builder-pattern library in Rust for building out CVs, programatically, in rust. 
+cv_builder is a builder-pattern library in Rust for building out CVs, programmatically, in rust. 
 
 Written to aid myself and my catharsis.
 
